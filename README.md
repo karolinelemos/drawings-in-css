@@ -1,12 +1,13 @@
 # CSS-drawings
+<p>My list of drawings made CSS in the Codepen</p>  
 
-## * OREO  
+### 1. OREO  
 http://codepen.io/itska/full/wGVMBa/  
-## * GITHUB MASCOT  
+### 2. GITHUB MASCOT  
 http://codepen.io/itska/full/YWPNrp/  
-## * ANDROID  
+### 3. ANDROID  
 http://codepen.io/itska/full/VaOEpb/ 
-## * JAKE  
+### 4. JAKE  
 http://codepen.io/itska/full/YqYGRO/  
-## * PRINCESS BUBBLEGUM  
+### 5. PRINCESS BUBBLEGUM  
 http://codepen.io/itska/full/PNKXMz/
